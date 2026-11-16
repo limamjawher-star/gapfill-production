@@ -1,0 +1,6 @@
+{
+  "name": "GapFill — Orphan Night Revenue Intelligence",
+  "description": "Turn empty nights between short-term rental bookings into actionable pricing, guest extension, and revenue recovery opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
